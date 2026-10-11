@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.2212C3
+test_cases:
+- expected_values:
+    AVALANCHE_INJECTOR_DUTY_CYCLE_BANK_1: 1.905
+  response: 7E8056212C3007F
+- expected_values:
+    AVALANCHE_INJECTOR_DUTY_CYCLE_BANK_1: 2.28
+  response: 7E8056212C30098
+- expected_values:
+    AVALANCHE_INJECTOR_DUTY_CYCLE_BANK_1: 3.195
+  response: 7E8056212C300D5
+- expected_values:
+    AVALANCHE_INJECTOR_DUTY_CYCLE_BANK_1: 3.21
+  response: 7E8056212C300D6
+- expected_values:
+    AVALANCHE_INJECTOR_DUTY_CYCLE_BANK_1: 3.435
+  response: 7E8056212C300E5
+- expected_values:
+    AVALANCHE_INJECTOR_DUTY_CYCLE_BANK_1: 3.615
+  response: 7E8056212C300F1

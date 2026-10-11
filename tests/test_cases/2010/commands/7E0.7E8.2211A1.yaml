@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2211A1
+test_cases:
+- expected_values:
+    AVALANCHE_RUNTM: 364
+  response: 7E8056211A1016C
+- expected_values:
+    AVALANCHE_RUNTM: 1017
+  response: 7E8056211A103F9
+- expected_values:
+    AVALANCHE_RUNTM: 1043
+  response: 7E8056211A10413
