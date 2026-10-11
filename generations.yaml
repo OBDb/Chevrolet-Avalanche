@@ -1,0 +1,12 @@
+references:
+  - "https://en.wikipedia.org/wiki/Chevrolet_Avalanche"
+
+generations:
+  - name: "First Generation (GMT800)"
+    start_year: 2002
+    end_year: 2006
+    description: "A crew-cab pickup with a convertible midgate, built on the Suburban's chassis with 5.3 L and 8.1 L V8s."
+  - name: "Second Generation (GMT900)"
+    start_year: 2007
+    end_year: 2013
+    description: "Built on the GMT900 Suburban and Tahoe, with the 5.3 L V8."

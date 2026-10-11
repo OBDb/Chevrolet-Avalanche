@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.22000D
+test_cases:
+- expected_values:
+    AVALANCHE_VSS: 0
+  response: 7E80462000D00
+- expected_values:
+    AVALANCHE_VSS: 7
+  response: 7E80462000D07
+- expected_values:
+    AVALANCHE_VSS: 10
+  response: 7E80462000D0A
+- expected_values:
+    AVALANCHE_VSS: 13
+  response: 7E80462000D0D
+- expected_values:
+    AVALANCHE_VSS: 15
+  response: 7E80462000D0F
+- expected_values:
+    AVALANCHE_VSS: 31
+  response: 7E80462000D1F
