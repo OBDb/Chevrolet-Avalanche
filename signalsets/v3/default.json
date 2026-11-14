@@ -159,7 +159,7 @@
   "signals": [
     {"id": "AVALANCHE_MISFIRES_C5_CUR_7E0", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Misfires, current, cylinder 5"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11EB"}, "freq": 1, "dbgfilter": { "to": 2006, "from": 2008 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11EB"}, "freq": 1, "dbgfilter": { "to": 2006, "years": [2008, 2009, 2010], "from": 2012 },
   "signals": [
     {"id": "AVALANCHE_MISFIRES_C6_CUR_7E0", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Misfires, current, cylinder 6"}
   ]},
@@ -187,7 +187,7 @@
   "signals": [
     {"id": "AVALANCHE_MIS_HISTORY_8", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Misfire history, cylinder 8"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1200"}, "freq": 1, "dbgfilter": { "to": 2006, "from": 2008 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1200"}, "freq": 1, "dbgfilter": { "to": 2006, "years": [2008, 2009, 2010], "from": 2012 },
   "signals": [
     {"id": "AVALANCHE_TOTAL_MISFIRE", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Total misfire"}
   ]},
@@ -211,7 +211,7 @@
   "signals": [
     {"id": "AVALANCHE_MISFIRES_C2_CUR_7E0", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Misfires, current, cylinder 2"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1206"}, "freq": 1, "dbgfilter": { "to": 2006, "from": 2008 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1206"}, "freq": 1, "dbgfilter": { "to": 2006, "years": [2008, 2009, 2010], "from": 2012 },
   "signals": [
     {"id": "AVALANCHE_MISFIRES_C1_CUR_7E0", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Misfires, current, cylinder 1"}
   ]},
@@ -255,7 +255,7 @@
   "signals": [
     {"id": "AVALANCHE_MIL_CAUSE", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "MIL cause"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "13AF"}, "freq": 1, "dbgfilter": { "to": 2006, "from": 2008 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "13AF"}, "freq": 1, "dbgfilter": { "to": 2006, "years": [2008, 2009, 2010], "from": 2012 },
   "signals": [
     {"id": "AVALANCHE_COOLING_FAN_MOTOR_CMD", "path": "Engine", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Cooling fan motor command"}
   ]},
