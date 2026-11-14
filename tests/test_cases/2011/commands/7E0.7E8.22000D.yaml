@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     AVALANCHE_VSS: 0
   response: 7E80462000D00
+- expected_values:
+    AVALANCHE_VSS: 120
+  response: 7E80462000D78

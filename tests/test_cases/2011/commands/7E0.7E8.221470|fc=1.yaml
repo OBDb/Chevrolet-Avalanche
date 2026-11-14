@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221470|fc=1
+test_cases:
+- expected_values:
+    AVALANCHE_EOP_DA11: 212
+  response: '7E80462147035'
+- expected_values:
+    AVALANCHE_EOP_DA11: 300
+  response: 7E8046214704B
