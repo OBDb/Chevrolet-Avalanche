@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220042
+test_cases:
+- expected_values:
+    AVALANCHE_M_CTRL_MODULE_V: 0
+  response: '7E8056200420000'
+- expected_values:
+    AVALANCHE_M_CTRL_MODULE_V: 14.841
+  response: 7E80562004239F9
+- expected_values:
+    AVALANCHE_M_CTRL_MODULE_V: 14.891
+  response: 7E8056200423A2B
