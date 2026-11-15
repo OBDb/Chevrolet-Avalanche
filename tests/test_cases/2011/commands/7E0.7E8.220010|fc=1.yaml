@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220010|fc=1
 test_cases:
 - expected_values:
-    AVALANCHE_MAF: 6.69
-  response: 7E805620010029D
+    AVALANCHE_MAF: 5.55
+  response: 7E805620010022B
 - expected_values:
     AVALANCHE_MAF: 40.93
   response: 7E8056200100FFD

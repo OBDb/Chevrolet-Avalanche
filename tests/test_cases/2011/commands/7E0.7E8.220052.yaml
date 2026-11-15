@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     AVALANCHE_ETHANOL_CONTENT_FUEL: 0
   response: '7E80462005200'
+- expected_values:
+    AVALANCHE_ETHANOL_CONTENT_FUEL: 11.76471
+  response: 7E8046200521E

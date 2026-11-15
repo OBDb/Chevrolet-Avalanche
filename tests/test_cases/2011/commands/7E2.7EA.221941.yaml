@@ -1,0 +1,21 @@
+command_id: 7E2.7EA.221941
+test_cases:
+- expected_values:
+    AVALANCHE_TRANS_ISS: 1173
+  response: |-
+    221941
+    7EA056219411254
+- expected_values:
+    AVALANCHE_TRANS_ISS: 1166.5
+  response: |-
+    2219411
+    7EA05621941123A
+- expected_values:
+    AVALANCHE_TRANS_ISS: 1095
+  response: 7EA05621941111C
+- expected_values:
+    AVALANCHE_TRANS_ISS: 1151.5
+  response: 7EA0562194111FE
+- expected_values:
+    AVALANCHE_TRANS_ISS: 1157.25
+  response: 7EA056219411215

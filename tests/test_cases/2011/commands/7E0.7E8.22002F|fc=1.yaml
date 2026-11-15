@@ -1,8 +1,13 @@
 command_id: 7E0.7E8.22002F|fc=1
 test_cases:
 - expected_values:
+    AVALANCHE_FLI: 90.19608
+  response: |-
+    22002F1
+    7E80462002FE6
+- expected_values:
     AVALANCHE_FLI: 0.39216
   response: 7E80462002F01
 - expected_values:
-    AVALANCHE_FLI: 20.39216
-  response: 7E80462002F34
+    AVALANCHE_FLI: 90.19608
+  response: 7E80462002FE6

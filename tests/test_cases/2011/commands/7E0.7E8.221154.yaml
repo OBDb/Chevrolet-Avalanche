@@ -1,8 +1,13 @@
 command_id: 7E0.7E8.221154
 test_cases:
 - expected_values:
-    AVALANCHE_EOT_CALC: 64
-  response: '7E80462115468'
+    AVALANCHE_EOT_CALC: 80
+  response: |-
+    2211541
+    7E80462115478
+- expected_values:
+    AVALANCHE_EOT_CALC: 58
+  response: '7E80462115462'
 - expected_values:
     AVALANCHE_EOT_CALC: 98
   response: 7E8046211548A
