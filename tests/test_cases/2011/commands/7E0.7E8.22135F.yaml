@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     AVALANCHE_MIL_CAUSE: 21
   response: 7E80462135F15
+- expected_values:
+    AVALANCHE_MIL_CAUSE: 61
+  response: 7E80462135F3D

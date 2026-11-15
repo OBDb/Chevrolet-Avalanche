@@ -1,0 +1,28 @@
+command_id: 7E2.7EA.221940
+test_cases:
+- expected_values:
+    AVALANCHE_ATF_T: 36
+  response: |-
+    2219401
+    7EA046219404C
+- expected_values:
+    AVALANCHE_ATF_T: 34
+  response: 7EA046219404A
+- expected_values:
+    AVALANCHE_ATF_T: 35
+  response: 7EA046219404B
+- expected_values:
+    AVALANCHE_ATF_T: 36
+  response: 7EA046219404C
+- expected_values:
+    AVALANCHE_ATF_T: 37
+  response: 7EA046219404D
+- expected_values:
+    AVALANCHE_ATF_T: 38
+  response: 7EA046219404E
+- expected_values:
+    AVALANCHE_ATF_T: 39
+  response: 7EA046219404F
+- expected_values:
+    AVALANCHE_ATF_T: 40
+  response: 7EA0462194050

@@ -1,0 +1,21 @@
+command_id: 7E2.7EA.2219D4
+test_cases:
+- expected_values:
+    AVALANCHE_CLU_SLIP_C3_RING: 1186.75
+  response: |-
+    2219D4
+    7EA056219D4128B
+- expected_values:
+    AVALANCHE_CLU_SLIP_C3_RING: 1175.75
+  response: |-
+    2219D41
+    7EA056219D4125F
+- expected_values:
+    AVALANCHE_CLU_SLIP_C3_RING: 1125
+  response: 7EA056219D41194
+- expected_values:
+    AVALANCHE_CLU_SLIP_C3_RING: 1149
+  response: 7EA056219D411F4
+- expected_values:
+    AVALANCHE_CLU_SLIP_C3_RING: 1156.25
+  response: 7EA056219D41211

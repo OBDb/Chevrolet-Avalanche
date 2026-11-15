@@ -1,0 +1,29 @@
+command_id: 7E2.7EA.221991|fc=1
+test_cases:
+- expected_values:
+    AVALANCHE_TC_SLIP_VSS_7E2: 14.5
+  response: 7EA056219910074
+- expected_values:
+    AVALANCHE_TC_SLIP_VSS_7E2: 16.375
+  response: 7EA056219910083
+- expected_values:
+    AVALANCHE_TC_SLIP_VSS_7E2: 16.625
+  response: 7EA056219910085
+- expected_values:
+    AVALANCHE_TC_SLIP_VSS_7E2: 18
+  response: 7EA056219910090
+- expected_values:
+    AVALANCHE_TC_SLIP_VSS_7E2: 18.75
+  response: 7EA056219910096
+- expected_values:
+    AVALANCHE_TC_SLIP_VSS_7E2: 20
+  response: 7EA0562199100A0
+- expected_values:
+    AVALANCHE_TC_SLIP_VSS_7E2: 21
+  response: 7EA0562199100A8
+- expected_values:
+    AVALANCHE_TC_SLIP_VSS_7E2: 22.625
+  response: 7EA0562199100B5
+- expected_values:
+    AVALANCHE_TC_SLIP_VSS_7E2: 22.875
+  response: 7EA0562199100B7

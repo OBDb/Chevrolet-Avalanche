@@ -1,0 +1,33 @@
+command_id: 7E2.7EA.22280D
+test_cases:
+- expected_values:
+    AVALANCHE_ATF_T_VAR_6: 38
+  response: |-
+    22280D
+    7EA0462280D4E
+- expected_values:
+    AVALANCHE_ATF_T_VAR_6: 40
+  response: |-
+    22280D1
+    7EA0462280D50
+- expected_values:
+    AVALANCHE_ATF_T_VAR_6: 37
+  response: 7EA0462280D4D
+- expected_values:
+    AVALANCHE_ATF_T_VAR_6: 38
+  response: 7EA0462280D4E
+- expected_values:
+    AVALANCHE_ATF_T_VAR_6: 39
+  response: 7EA0462280D4F
+- expected_values:
+    AVALANCHE_ATF_T_VAR_6: 40
+  response: 7EA0462280D50
+- expected_values:
+    AVALANCHE_ATF_T_VAR_6: 41
+  response: 7EA0462280D51
+- expected_values:
+    AVALANCHE_ATF_T_VAR_6: 42
+  response: 7EA0462280D52
+- expected_values:
+    AVALANCHE_ATF_T_VAR_6: 43
+  response: 7EA0462280D53
